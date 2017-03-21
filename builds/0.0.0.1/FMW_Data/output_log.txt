@@ -1,0 +1,80 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dumx.dll 21.21.13.6909]
+    Renderer: NVIDIA GeForce GT 730M
+    Vendor:   NVIDIA
+    VRAM:     2017 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0 ATOC=1 BC4=1 BC5=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Hiago\Documents\Projetos\jountheim\trunk\JotunheimClient-V3\PATCH\builds\0.0.0.1\FMW_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Hiago\Documents\Projetos\jountheim\trunk\JotunheimClient-V3\PATCH\builds\0.0.0.1\FMW_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Hiago\Documents\Projetos\jountheim\trunk\JotunheimClient-V3\PATCH\builds\0.0.0.1\FMW_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Hiago\Documents\Projetos\jountheim\trunk\JotunheimClient-V3\PATCH\builds\0.0.0.1\FMW_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Hiago\Documents\Projetos\jountheim\trunk\JotunheimClient-V3\PATCH\builds\0.0.0.1\FMW_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Hiago\Documents\Projetos\jountheim\trunk\JotunheimClient-V3\PATCH\builds\0.0.0.1\FMW_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Hiago\Documents\Projetos\jountheim\trunk\JotunheimClient-V3\PATCH\builds\0.0.0.1\FMW_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\Hiago\Documents\Projetos\jountheim\trunk\JotunheimClient-V3\PATCH\builds\0.0.0.1\FMW_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Hiago\Documents\Projetos\jountheim\trunk\JotunheimClient-V3\PATCH\builds\0.0.0.1\FMW_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Hiago\Documents\Projetos\jountheim\trunk\JotunheimClient-V3\PATCH\builds\0.0.0.1\FMW_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Hiago\Documents\Projetos\jountheim\trunk\JotunheimClient-V3\PATCH\builds\0.0.0.1\FMW_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Hiago\Documents\Projetos\jountheim\trunk\JotunheimClient-V3\PATCH\builds\0.0.0.1\FMW_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Hiago\Documents\Projetos\jountheim\trunk\JotunheimClient-V3\PATCH\builds\0.0.0.1\FMW_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Hiago\Documents\Projetos\jountheim\trunk\JotunheimClient-V3\PATCH\builds\0.0.0.1\FMW_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Hiago\Documents\Projetos\jountheim\trunk\JotunheimClient-V3\PATCH\builds\0.0.0.1\FMW_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Hiago\Documents\Projetos\jountheim\trunk\JotunheimClient-V3\PATCH\builds\0.0.0.1\FMW_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\Hiago\Documents\Projetos\jountheim\trunk\JotunheimClient-V3\PATCH\builds\0.0.0.1\FMW_Data\Managed\TcpClientImplementation.dll (this message is harmless)
+Loading C:\Users\Hiago\Documents\Projetos\jountheim\trunk\JotunheimClient-V3\PATCH\builds\0.0.0.1\FMW_Data\Managed\TcpClientImplementation.dll into Unity Child Domain
+Platform assembly: C:\Users\Hiago\Documents\Projetos\jountheim\trunk\JotunheimClient-V3\PATCH\builds\0.0.0.1\FMW_Data\Managed\Excel.dll (this message is harmless)
+Loading C:\Users\Hiago\Documents\Projetos\jountheim\trunk\JotunheimClient-V3\PATCH\builds\0.0.0.1\FMW_Data\Managed\Excel.dll into Unity Child Domain
+Platform assembly: C:\Users\Hiago\Documents\Projetos\jountheim\trunk\JotunheimClient-V3\PATCH\builds\0.0.0.1\FMW_Data\Managed\ICSharpCode.SharpZipLib.dll (this message is harmless)
+Loading C:\Users\Hiago\Documents\Projetos\jountheim\trunk\JotunheimClient-V3\PATCH\builds\0.0.0.1\FMW_Data\Managed\ICSharpCode.SharpZipLib.dll into Unity Child Domain
+Platform assembly: C:\Users\Hiago\Documents\Projetos\jountheim\trunk\JotunheimClient-V3\PATCH\builds\0.0.0.1\FMW_Data\Managed\ArabicSupport.dll (this message is harmless)
+Loading C:\Users\Hiago\Documents\Projetos\jountheim\trunk\JotunheimClient-V3\PATCH\builds\0.0.0.1\FMW_Data\Managed\ArabicSupport.dll into Unity Child Domain
+Platform assembly: C:\Users\Hiago\Documents\Projetos\jountheim\trunk\JotunheimClient-V3\PATCH\builds\0.0.0.1\FMW_Data\Managed\MHLab.PATCH.dll (this message is harmless)
+Loading C:\Users\Hiago\Documents\Projetos\jountheim\trunk\JotunheimClient-V3\PATCH\builds\0.0.0.1\FMW_Data\Managed\MHLab.PATCH.dll into Unity Child Domain
+Platform assembly: C:\Users\Hiago\Documents\Projetos\jountheim\trunk\JotunheimClient-V3\PATCH\builds\0.0.0.1\FMW_Data\Managed\Newtonsoft.Json.dll (this message is harmless)
+Loading C:\Users\Hiago\Documents\Projetos\jountheim\trunk\JotunheimClient-V3\PATCH\builds\0.0.0.1\FMW_Data\Managed\Newtonsoft.Json.dll into Unity Child Domain
+- Completed reload, in  1.247 seconds
+Platform assembly: C:\Users\Hiago\Documents\Projetos\jountheim\trunk\JotunheimClient-V3\PATCH\builds\0.0.0.1\FMW_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Hiago\Documents\Projetos\jountheim\trunk\JotunheimClient-V3\PATCH\builds\0.0.0.1\FMW_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on ResourceManager
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 382)
+
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+desktop: 1366x768 60Hz; virtual: 2732x768 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 36.387260 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.916398 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 4696.
+Total: 31.411860 ms (FindLiveObjects: 0.436758 ms CreateObjectMapping: 0.153378 ms MarkObjects: 7.679772 ms  DeleteObjects: 23.140238 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 4696.
+Total: 7.118143 ms (FindLiveObjects: 0.452153 ms CreateObjectMapping: 0.136843 ms MarkObjects: 6.519453 ms  DeleteObjects: 0.008552 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 4811.
+Total: 8.046968 ms (FindLiveObjects: 0.444171 ms CreateObjectMapping: 0.151098 ms MarkObjects: 7.424331 ms  DeleteObjects: 0.026798 ms)
+
+You are trying to load data from a www stream which had the following error when downloading.
+500 Internal Server Error
+ 
+(Filename:  Line: 782)
+
+You are trying to load data from a www stream which had the following error when downloading.
+500 Internal Server Error
+ 
+(Filename:  Line: 782)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 26c0 -> priority: 1 
